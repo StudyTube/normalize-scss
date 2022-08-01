@@ -1,3 +1,5 @@
+# Fixes slash-div deprecation warning in the branch https://github.com/StudyTube/normalize-scss/tree/fix_dart-sass_deprecation_warnings
+
 # normalize-scss
 
 ## Latest versions
